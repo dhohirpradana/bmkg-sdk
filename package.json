@@ -25,5 +25,8 @@
     "axios": "^1.2.1",
     "fast-xml-parser": "^4.0.12",
     "xml-js": "^1.6.11"
+  },
+  "publishConfig": {
+    "@dhohirpradana:registry": "https://npm.pkg.github.com"
   }
 }
