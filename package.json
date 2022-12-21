@@ -1,6 +1,6 @@
 {
   "name": "bmkg-sdk",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "data bmkg",
   "main": "index.js",
   "scripts": {
