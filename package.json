@@ -1,0 +1,29 @@
+{
+  "name": "bmkg-sdk",
+  "version": "1.0.0",
+  "description": "data bmkg",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/dhohirpradana/bmkg-sdk.git"
+  },
+  "keywords": [
+    "bmkg",
+    "cuaca",
+    "api-cuaca"
+  ],
+  "author": "dhohirpradana",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/dhohirpradana/bmkg-sdk/issues"
+  },
+  "homepage": "https://github.com/dhohirpradana/bmkg-sdk#readme",
+  "dependencies": {
+    "axios": "^1.2.1",
+    "fast-xml-parser": "^4.0.12",
+    "xml-js": "^1.6.11"
+  }
+}
